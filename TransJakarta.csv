@@ -1,0 +1,301 @@
+transID,payUserID,typeCard,userName,userSex,userBirthYear,corridorID,corridorName,direction,payAmount,transDate,tapInTime,tapOutTime,routeName,routeID,idCard,duration
+PGEG313Z8Q13MI,445632749594,JakCard,Dinda Pratiwi,Male,2006,JAK.37,Cililitan - Condet via Kayu Manis,berangkat,3500,2023-04-18,12:20:38,13:48:16,Mushola As Salam Batu Ampar-PGC Dalam,A1,B001,01:27:38
+GUUM610Y4K57MG,445272052196,JakCard,"Sabri Marbun, S.T.",Female,1965,11Q,Kampung Melayu - Pulo Gebang via BKT,berangkat,3500,2023-04-22,17:01:46,17:21:07,Taman Buaran Indah-Walikota Jakarta Timur,A2,B001,00:19:21
+OTEG189R6L24CQ,445630014516,JakCard,Mahdi Wibisono,Female,1991,JAK.22,Dwikora - Penas Kalimalang,arah balik,3500,2023-04-19,09:56:23,11:07:59,Ps. Mini Halim-Cawang Soetoyo 1,A3,B001,01:11:36
+LCIJ138M3Y62NV,445299061173,JakCard,Tirta Siregar,Female,1993,1T,Cibubur - Balai Kota,berangkat,20000,2023-04-18,16:36:02,17:43:14,Dukuh Atas 3-Plaza Sentral,A4,B001,01:07:12
+LHGN854O8H44FT,445376808897,JakCard,Abyasa Haryanti,Male,1948,JAK.07,Tanah Abang - Grogol via Tawakal,berangkat,3500,2023-04-18,18:07:29,19:21:13,Ps. Gantung-Simpang Semangka I,A5,B001,01:13:44
+ZIPG538Y7X13KT,445284030829,MegaCash,Legawa Wulandari,Male,2010,D32,Cinere - Bundaran Senayan,berangkat,20000,2023-04-28,09:01:28,10:48:54,SPBU Limo Cinere 1-South City Cinere,A6,B002,01:47:26
+AVHH193B2M31RI,445756496922,JakCard,"Yosef Novitasari, M.M.",Female,1984,1P,Senen - Blok M,arah balik,3500,2023-04-17,21:56:27,23:48:30,Bundaran Senayan 1-Taman Patimura,A7,B001,01:52:03
+QMPR047I4K88SY,445418372290,E-Money,Drs. Salimah Hidayanto,Male,1970,JAK.64,Lenteng Agung - Aseli,berangkat,3500,2023-04-14,19:39:50,20:49:03,Sbr. Sekolah Avicenna Jagakarsa-Sbr. Masjid Jami Asy Syakirin,A8,B003,01:09:13
+TIWB024F4I43OZ,445122053086,JakCard,Eka Hidayat,Male,1988,JAK.117,Tanjung Priok - Tanah Merdeka,arah balik,3500,2023-04-18,20:04:50,21:34:16,Sbr. Masjid Ar Rohmah-Waduk Rawabadak,A9,B001,01:29:26
+GRNS539K5C87YN,445376808897,JakCard,Abyasa Haryanti,Male,1948,JAK.07,Tanah Abang - Grogol via Tawakal,arah balik,3500,2023-04-17,09:26:47,10:01:38,Jln. Tali Kota Bambu Selatan-Pospol Tomang 2,A10,B001,00:34:51
+PUTF883B3X42LU,445739554432,E-Money,Maryadi Haryanto,Male,1968,JAK.03,Lebak Bulus - Andara,berangkat,3500,2023-04-27,18:22:06,19:19:08,Simpang Adiaksa-Jln. Adiaksa II,A11,B003,00:57:02
+WUUO818Q7J19LN,445867049964,MegaCash,Wirda Yuliarti,Male,1990,5,Matraman Baru - Ancol,arah balik,3500,2023-04-25,06:36:23,07:00:00,Slamet Riyadi-Budi Utomo,A12,B002,00:23:37
+RDYL461X9L18YL,445054929578,E-Money,Gangsa Dabukke,Male,1991,JAK.53,Grogol - Pos Pengumben via Slipi,arah balik,3500,2023-04-16,10:07:59,11:47:48,Jln. Pemancingan Srengseng-Jln. Inspeksi Kali Pesanggrahan Barat,A13,B003,01:39:49
+XHHU396N3P67FO,445214722069,JakCard,"Farah Hardiansyah, M.M.",Female,2010,13D,Puri Beta - Ragunan,berangkat,3500,2023-04-05,09:46:42,11:38:52,Velbak-Seskoal,A14,B001,01:52:10
+NZOK285R1D76KP,445492958159,E-Money,Keisha Prayoga,Female,1982,JAK.20,Cawang UKI - Lubang Buaya,berangkat,3500,2023-04-28,17:58:25,19:31:30,Jln. Gorda-TK Angkasa 5,A15,B003,01:33:05
+KJHE433Z7N26IG,445607568935,E-Money,Dt. Cakrajiya Mardhiyah,Female,1992,10A,Rusun Marunda - Tanjung Priok,berangkat,3500,2023-04-12,21:28:30,23:13:04,STIP-Rusun Marunda 2,A16,B003,01:44:34
+XOJL372J9G70XZ,445636344665,TapCash,Ellis Pradipta,Female,1987,JAK.02,Kampung Melayu - Duren Sawit,arah balik,3500,2023-04-17,07:48:52,08:13:40,Simpang Pondok Bambu Batas 1-Simpang BKT,A17,B004,00:24:48
+JRBZ585T9C47WL,445579356446,E-Money,Balidin Pradana,Female,2003,2B,Harapan Indah - ASMI,berangkat,3500,2023-04-24,09:08:45,10:13:27,Lion Metal 2-KPP Pratama Cakung 2,A18,B003,01:04:42
+XCNF457U8U53DN,445450148105,E-Money,Garan Pertiwi,Female,1986,M13,Puri Beta 2 - Tendean,arah balik,3500,2023-04-10,19:54:44,21:09:09,Puri Beta 2-Rawa Barat,A19,B003,01:14:25
+BTLF258U0F98ZZ,445259274325,BRIZZI,Unjani Usamah,Female,2003,M12,Sunter Boulevard Barat - Penjaringan,arah balik,3500,2023-04-06,05:26:10,06:22:04,Mangga Dua-Bandengan Selatan,A20,B005,00:55:54
+EPIY533Y1A48HL,445305892172,Flazz,Drs. Harjo Nurdiyanti,Male,1986,14,Jakarta International Stadium - Senen,berangkat,3500,2023-04-27,17:26:40,19:07:39,Polres Metro Jakpus-Sunter Muara 1,A21,B006,01:40:59
+DJJU428U6D72XW,445549500530,JakCard,Sakti Puspita,Female,1988,11C,Rusun Pinus Elok - Rusun Pulo Gebang,berangkat,3500,2023-04-08,16:18:59,17:58:03,Walikota Jakarta Timur 2-Penggilingan 1,A22,B001,01:39:04
+LHPH351S5K99VX,445972056548,JakCard,"Endra Lestari, S.Psi",Female,2004,4C,TU Gas - Bundaran Senayan,arah balik,3500,2023-04-12,07:02:52,09:00:14,Jln. Penataran-Gedung Wanita,A23,B001,01:57:22
+MXIM578L6Z75ZH,445512914767,E-Money,Margana Pradana,Female,1986,B13,Bekasi Barat - Blok M,arah balik,20000,2023-04-04,06:01:35,07:04:01,Bekasi Barat-St. MRT Asean 1,A24,B003,01:02:26
+XRIX184B3I66SV,445601069338,TapCash,Prayogo Mandala,Male,1988,2B,Harapan Indah - ASMI,berangkat,3500,2023-04-27,20:02:05,21:35:55,KPP Pratama Cakung 2-Sbr. Ps. Ujung Menteng,A25,B004,01:33:50
+WHXK783B9B02RM,445969168166,TapCash,Nilam Mayasari,Female,2005,6B,Ragunan - MH Thamrin via Semanggi,arah balik,3500,2023-04-18,20:16:02,22:15:06,Pejaten-Dukuh Atas,A26,B004,01:59:04
+WVHH147S4C08JA,445216347902,BRIZZI,Gamani Wibisono,Male,1978,JAK.88,Terminal Tanjung Priok - Ancol Barat,arah balik,3500,2023-04-28,07:25:17,08:38:18,Sekolah Yanindo Jakarta-KPP Pratama Jakarta Pluit,A27,B005,01:13:01
+GRGG317U3P17NF,445137230105,E-Money,"dr. Rahman Anggraini, S.Psi",Female,2007,1K,Cibubur Junction - Blok M,arah balik,20000,2023-04-14,06:31:34,08:18:02,Summitmas-Blok M Jalur 4,A28,B003,01:46:28
+RSCC687Z0E65YK,445050064418,JakCard,Ilsa Kurniawan,Female,2008,T11,Poris Plawad - Bundaran Senayan,arah balik,3500,2023-04-14,13:48:56,15:41:46,Pengayoman-Masjid Baiturrahman 1,A29,B001,01:52:50
+RIBW790N4G26AF,445554973330,Flazz,Keisha Handayani,Male,1984,6P,Cibubur - Kuningan,berangkat,20000,2023-04-12,09:11:38,09:45:30,Tempo Scan-Rest Area TMII,A30,B006,00:33:52
+WKJY719I0Y47KF,445042671063,JakCard,Bakiman Mahendra,Male,1983,JAK.24,Senen - Pulo Gadung via Kelapa Gading,arah balik,3500,2023-04-13,20:07:19,21:20:01,Simpang Gunung Sahari III-Term. Senen,A31,B001,01:12:42
+OLPS640K9J23RH,445267423701,JakCard,Suci Wacana,Male,1985,12A,Pelabuhan Kaliadem - Kota,berangkat,3500,2023-04-14,05:17:06,05:51:37,SMAK Penabur Enam 2-Pelabuhan Kali Adem,A32,B001,00:34:31
+TJHW280K6W00KM,445049575466,BRIZZI,R.A. Ghaliyati Susanti,Male,1997,B14,Bekasi Barat - Kuningan,berangkat,20000,2023-04-13,21:19:26,22:33:00,Cipta Rasuna Said-RS Mitra Keluarga 2,A33,B005,01:13:34
+NGMX535W3X73PG,445096538490,JakCard,Ina Sudiati,Male,1981,3A,Rusun Pesakih - Kalideres,berangkat,3500,2023-04-10,06:56:39,08:10:47,Pertamina Kalideres Daan Mogot-Pesakih 1,A34,B001,01:14:08
+QEUA694R2C30VQ,445457823882,JakCard,Vega Putra,Female,2000,2P,Gondangdia - Senen,berangkat,3500,2023-04-12,08:20:00,09:43:19,Atrium 1-Theresia,A35,B001,01:23:19
+OCQD855A5U02RA,445013492809,Flazz,Harimurti Purnawati,Female,1996,9A,PGC 2 - Grogol 2,arah balik,3500,2023-04-17,09:03:15,10:55:12,Pancoran Tugu Arah Barat-RS Harapan Kita Arah Utara,A36,B006,01:51:57
+QPAQ256I0Q29LC,445863983092,JakCard,"dr. Sakura Budiman, S.IP",Male,1972,3C,Rusun Kapuk Muara - Penjaringan,arah balik,3500,2023-04-28,17:22:31,18:18:23,Rusun Kapuk Muara-Penjaringan,A37,B001,00:55:52
+URNF258E3Y34FG,445388361235,JakCard,Sidiq Suryatmi,Female,1988,6H,Senen - Lebak Bulus,arah balik,3500,2023-04-25,06:38:48,07:33:44,Ampera 2-Lebak Bulus,A38,B001,00:54:56
+ROKU276V0I32DI,445637372765,JakCard,"Gamanto Maheswara, S.H.",Female,1974,JAK.42,Kampung Melayu - Pondok Kelapa,arah balik,3500,2023-04-19,16:18:18,17:17:10,Ps. Enjo 2-Komplek Wijaya Kusuma 1,A39,B001,00:58:52
+RIQY181Y9J93FG,445080608628,JakCard,"Nadia Saragih, S.I.Kom",Female,2002,JAK.18,Kalibata - Kuningan,arah balik,3500,2023-04-13,07:56:49,09:38:28,Pengadegan Barat VI-Wisma Laena Tebet,A40,B001,01:41:39
+FPVJ857V5Y39QS,445767720342,JakCard,"Kawaca Narpati, S.Farm",Female,2010,M2,Pulo Gadung - Monas,arah balik,3500,2023-04-13,09:09:16,10:30:18,Rawa Selatan-Galur,A41,B001,01:21:02
+ARNX183X0A49ZU,445512040462,JakCard,Mutia Halimah,Male,1976,13D,Puri Beta - Ragunan,berangkat,3500,2023-04-28,17:10:33,18:56:28,Pejaten-Mayestik,A42,B001,01:45:55
+JLMB389L1S25EU,445184177495,JakCard,Galih Budiyanto,Female,2005,8A,Jelambar - Juanda,arah balik,3500,2023-04-10,09:59:27,11:49:22,Petojo-Pecenongan,A43,B001,01:49:55
+AKWW655V1Z09YC,445976430803,JakCard,Ivan Riyanti,Male,1965,6Q,Dukuh Atas - Casablanca via Epicentrum Raya,berangkat,3500,2023-04-13,15:27:03,17:22:02,Sbr. Puskesmas Setiabudi-Halimun 1,A44,B001,01:54:59
+KQWH520S1Q04YW,445874455880,E-Money,KH. Laksana Kuswandari,Female,1993,14,Jakarta International Stadium - Senen,berangkat,3500,2023-04-16,05:39:15,06:09:04,Sunter Muara 1-JIS,A45,B003,00:29:49
+OMPF006U9P63DN,445299899550,E-Money,Luhung Permadi,Female,2005,6D,Stasiun Tebet - Karet via Underpass,arah balik,3500,2023-04-26,17:42:04,18:56:57,Sahid Sudirman Center-Karet Pedurenan 2,A46,B003,01:14:53
+HCPY590G3D18XW,445566693884,Flazz,Dr. Taufan Jailani,Female,1989,D11,Depok - BKN,berangkat,3500,2023-04-06,06:34:22,07:51:55,Balaikota Depok 2-Term. Depok Baru,A47,B006,01:17:33
+BXPT259D1F40SI,445309486327,JakCard,Embuh Saragih,Female,2000,8D,Joglo - Blok M,berangkat,3500,2023-04-04,18:08:39,19:24:06,Puskesmas Kel. Gunung-Mayestik 2,A48,B001,01:15:27
+QFCZ422T7M16YP,445533988342,JakCard,Asman Uyainah,Female,2005,2,Pulo Gadung - Monas,berangkat,3500,2023-04-17,17:16:48,18:40:11,Bermis-Pulo Gadung 1,A49,B001,01:23:23
+KNDJ215P1N52UC,445709084704,JakCard,Luhung Aryani,Male,2005,JAK.42,Kampung Melayu - Pondok Kelapa,berangkat,3500,2023-04-17,17:58:20,19:19:30,RS Duren Sawit-Sbr. Klinik Win Medika,A50,B001,01:21:10
+MLJG184K3S43PV,445488982745,Flazz,Dadi Halim,Female,1996,JAK.115,Term. Tj. Priok - Pegangsaan II IGI,arah balik,3500,2023-04-08,20:02:44,20:50:00,Sbr. Jln. Komplek Yuka-SPBU Tugu Selatan,A51,B006,00:47:16
+CDFV436Z0G42NG,445081839200,E-Money,Wahyu Wibisono,Female,1985,10K,Tanjung Priok - Senen via Taman BMW,berangkat,3500,2023-04-19,17:48:17,18:39:17,Simpang Danau Sunter Utara Barat-Sbr. Sekolah Yanindo Jakarta,A52,B003,00:51:00
+ZAVR201N4H66OD,445809364078,E-Money,Leo Wastuti,Male,2007,JAK.113,Rusun Sindang Koja - Kp. Sawah,berangkat,3500,2023-04-07,21:28:01,23:05:13,BPJS Ketenagakerjaan Marunda-RSUD Koja,A53,B003,01:37:12
+ZORY812P3I83RF,445399542611,JakCard,T. Raden Kuswandari,Male,1948,JAK.42,Kampung Melayu - Pondok Kelapa,arah balik,3500,2023-04-05,21:46:41,22:39:49,Sbr. Komplek Pacul Mas-Univ. Darma Persada 2,A54,B001,00:53:08
+SMPE001H2Y42BZ,445593059325,E-Money,Hj. Ana Laksita,Female,1990,6H,Senen - Lebak Bulus,berangkat,3500,2023-04-21,06:52:49,08:14:29,Pondok Pinang-Telkom Grapari,A55,B003,01:21:40
+EYRV194Y4I65QC,445302214167,JakCard,"Dr. Gamanto Winarsih, S.Ked",Female,1991,JAK.84,Terminal Kampung Melayu - Kapin Raya,berangkat,3500,2023-04-19,16:37:53,18:10:28,Univ. Borobudur 2-Awab Dalam,A56,B001,01:32:35
+CQBO388A0J85HO,445923819028,E-Money,"R.A. Vivi Utama, S.T.",Male,1969,4B,Stasiun Manggarai - UI,arah balik,3500,2023-04-11,21:09:08,22:01:26,Poltek Bunda Kandung-St. Lenteng Agung 1,A57,B003,00:52:18
+PSXP583D2O91CD,445830144456,E-Money,"Ir. Yani Sihombing, S.H.",Male,1973,12P,St. LRT Pegangsaan Dua - JIS,berangkat,3500,2023-04-24,05:40:03,06:17:26,Villa Bukit Gading-Puskesmas Kelapa Gading,A58,B003,00:37:23
+UOVU693R6R21US,445964579008,E-Money,Saka Sihombing,Female,1969,JAK.71,Kampung Rambutan - Pinang Ranti,arah balik,3500,2023-04-12,05:10:38,05:45:17,SDN Dukuh 01-Sbr. Polsek Makasar,A59,B003,00:34:39
+HAPJ253D5L09AA,445137079124,E-Money,Putri Nashiruddin,Male,1995,1T,Cibubur - Balai Kota,arah balik,20000,2023-04-06,20:34:39,22:01:14,Cibubur Junction-MH Thamrin 2,A60,B003,01:26:35
+RSGT718M8R38LI,445482040761,JakCard,"KH. Argono Nashiruddin, S.Gz",Male,1988,11N,Rusun Cipinang Muara - Jatinegara,berangkat,3500,2023-04-18,17:17:26,18:08:26,Ps. Enjo 2-Sbr. Jln. Cipinang Jaya,A61,B001,00:51:00
+EHRN225N0P38JS,445031650483,TapCash,"dr. Aisyah Kusumo, M.Ak",Female,1993,S21,Ciputat - CSW,arah balik,3500,2023-04-11,06:25:47,08:21:20,Metro Pondok Indah-Antena II,A62,B004,01:55:33
+FEFH445I4O56XA,445160464798,TapCash,Daliono Adriansyah,Female,2012,12,Tanjung Priok - Pluit,arah balik,3500,2023-04-18,05:03:20,05:55:10,Mangga Dua-Kali Besar Barat,A63,B004,00:51:50
+SLLL793N7F96BE,445752713496,Flazz,"drg. Dinda Prastuti, S.Sos",Male,1964,JAK.18,Kalibata - Kuningan,arah balik,3500,2023-04-15,13:45:20,14:50:51,Jln. Barkah III Manggarai Selatan-Soepomo,A64,B006,01:05:31
+GZXD208L4J53SO,445649679256,JakCard,"Jati Nainggolan, M.TI.",Female,1987,8C,Kebayoran Lama - Tanah Abang,berangkat,3500,2023-04-11,05:25:42,06:08:05,Jak Lingko Tanah Abang-Jln. Taman Jatibaru Timur,A65,B001,00:42:23
+JDAC377L2F81UN,445964277883,JakCard,Vino Mayasari,Male,2007,D11,Depok - BKN,berangkat,3500,2023-04-15,16:40:43,17:43:08,ACE Hardware-Term. Depok Baru,A66,B001,01:02:25
+OOFD700Z1L30HH,445119520242,BRIZZI,Mala Salahudin,Female,1983,JAK.86,Term. Rawamangun - Term. Manggarai,berangkat,3500,2023-04-03,18:03:25,19:23:13,Bank BRI Kayu Manis-Jln. Rawamangun Selatan 2,A67,B005,01:19:48
+TGPR417D4C14XX,445583344800,JakCard,"H. Darmana Safitri, M.M.",Male,1984,JAK.39,Kalimalang - Duren Sawit,arah balik,3500,2023-04-03,06:59:18,08:57:59,SMPN 252-Klapa Village Pondok Kelapa,A68,B001,01:58:41
+CXHJ967E9A67HW,445149132892,JakCard,"R. Nadine Prasetya, M.M.",Female,1994,JAK.27,Pulo Gebang - Rorotan,arah balik,3500,2023-04-07,19:41:15,21:01:14,Pintu Exit Term. Pulo Gebang-Sbr. Tambun Utara,A69,B001,01:19:59
+MMSN895K9C69GN,445536980182,JakCard,Nasab Megantara,Female,1997,3A,Rusun Pesakih - Kalideres,arah balik,3500,2023-04-12,16:22:35,18:05:51,Rusun Pesakih-Kalideres 1,A70,B001,01:43:16
+UWHW175V4X43QY,445893390520,MegaCash,Asmadi Agustina,Female,1983,JAK.27,Pulo Gebang - Rorotan,berangkat,3500,2023-04-11,19:46:45,21:14:18,Jln. Pulau Sangiyang Lingkar Timur-Sentra Timur,A71,B002,01:27:33
+HTCL751C6G17VZ,445834099201,JakCard,Balangga Narpati,Female,2003,JAK.42,Kampung Melayu - Pondok Kelapa,berangkat,3500,2023-04-03,19:15:37,20:53:53,Sbr. Ps. Deprok-Jln. Bekasi Timur I Jatinegara,A72,B001,01:38:16
+NQLR689X5D28AC,445425799953,JakCard,Bakti Yuliarti,Male,1998,5,Matraman Baru - Ancol,arah balik,3500,2023-04-24,07:14:15,09:10:50,Pademangan-Ancol,A73,B001,01:56:35
+SIAZ498W5X42NY,445152118517,E-Money,Fathonah Anggraini,Male,2006,6M,Stasiun Manggarai - Blok M,arah balik,3500,2023-04-20,06:51:11,07:39:48,Patra Kuningan-Gatot Subroto Jamsostek Arah Barat,A74,B003,00:48:37
+SIHZ643S3V71QW,445316219407,JakCard,Estiono Rajasa,Female,2003,BW9,Monas - Pantai Indah Kapuk,berangkat,3500,2023-04-20,17:08:29,19:04:49,Monas 1-Monas 3,A75,B001,01:56:20
+NCQR431M2X48ER,445756496922,JakCard,"Yosef Novitasari, M.M.",Female,1984,1P,Senen - Blok M,berangkat,3500,2023-04-10,07:47:21,08:34:48,Plaza Indonesia-IRTI,A76,B001,00:47:27
+HRHH858J5X02TU,445286932214,BRIZZI,Drs. Betania Wahyuni,Male,2010,JAK.120,JIS - Terminal Muara Angke,berangkat,3500,2023-04-17,17:48:36,18:41:40,Jln. Industri I-BNN Jakarta Utara,A77,B005,00:53:04
+TKVV697X8W71HA,445999813644,E-Money,Umay Nababan,Female,1986,JAK.110A,Rusun Marunda - Terminal Terpadu Pulo Gebang,berangkat,3500,2023-04-14,06:07:51,07:53:46,Malaka Jaya RW11 Rorotan-Ps. Malaka Rorotan,A78,B003,01:45:55
+KMSC453O9P14DY,445135320070,JakCard,Ir. Murti Dabukke,Female,2007,M9,Pinang Ranti - Pluit,berangkat,3500,2023-04-13,20:35:43,21:54:48,Slipi Petamburan Arah Utara-Pancoran Barat Arah Timur,A79,B001,01:19:05
+UYYX850E4D24MG,445856748009,JakCard,Daliono Kurniawan,Female,1986,B14,Bekasi Barat - Kuningan,arah balik,20000,2023-04-14,21:55:49,23:37:01,Kuningan Madya 2-Menara Duta,A80,B001,01:41:12
+SCMK352C2B96VB,445830866390,BRIZZI,Darman Puspasari,Female,1996,JAK.118,Taman Waduk Papanggo - Kota Tua,arah balik,3500,2023-04-17,06:51:56,07:13:46,Jln. Hidup Baru-Mangga Dua Square,A81,B005,00:21:50
+HBNB344C9A87EB,445098756748,JakCard,Tirtayasa Sitorus,Female,1988,JAK.06,Kampung Rambutan - Pondok Gede,berangkat,3500,2023-04-12,16:22:21,17:41:03,Green Terrace-Museum Nasional VIsible Storage,A82,B001,01:18:42
+PWII329D1Q52EG,445910438475,JakCard,Gina Salahudin,Male,1967,JAK.38,Bulak Ringin - Kampung Rambutan,berangkat,3500,2023-04-20,05:23:10,07:38:39,Man 2 Jakarta-Sekolah Bumi Husada Ciracas,A83,B001,02:15:29
+UWTI253M8D78OE,445601504393,JakCard,Cut Malika Wastuti,Male,1967,1,Blok M - Kota,arah balik,3500,2023-04-11,19:11:37,20:44:35,Sawah Besar Arah Utara-Olimo,A84,B001,01:32:58
+YDWF215O4U71CK,445533987400,JakCard,Winda Habibi,Male,2011,6T,Pasar Minggu - Velbak,berangkat,3500,2023-04-06,08:33:31,09:39:56,Jln. Pakubuwono VI-Sbr. SMK 57,A85,B001,01:06:25
+HGBT094Z0D41OP,445601504393,JakCard,Cut Malika Wastuti,Male,1967,1,Blok M - Kota,arah balik,3500,2023-04-25,17:16:08,18:39:12,Sawah Besar Arah Utara-Olimo,A84,B001,01:23:04
+KMDM864C9X14HU,445103349470,TapCash,Dina Pratiwi,Male,1988,S11,BSD - Jelambar,arah balik,3500,2023-04-18,07:38:08,08:23:00,Gading Serpong 1-Tol Kb. Jeruk 2,A86,B004,00:44:52
+GOCU596G8P57PM,445045756192,JakCard,Darijan Megantara,Female,1998,R1A,Pantai Maju - Kota,berangkat,3500,2023-04-15,11:05:06,12:29:32,Stella Maris 2-Taman Resort Mediterania,A87,B001,01:24:26
+LUPF902D3Z08YE,445463944192,E-Money,Shakila Siregar,Male,1994,JAK.02,Kampung Melayu - Duren Sawit,arah balik,3500,2023-04-26,17:26:19,18:53:40,Bidara Cina 1-Jln. Panti Asuhan,A88,B003,01:27:21
+RQZS695G0H69WP,445371381821,E-Money,Latika Maheswara,Male,1996,B21,Bekasi Timur - Cawang,berangkat,3500,2023-04-03,07:16:07,07:46:49,BTC 2-Terminal Bekasi,A89,B003,00:30:42
+SGTE130R4K90CE,445790278054,JakCard,Cawisono Permadi,Female,1987,6A,Ragunan - MH Thamrin via Kuningan,arah balik,3500,2023-04-25,06:26:50,07:23:58,Buncit Indah-Imigrasi,A90,B001,00:57:08
+HYWX132U0W61AB,445667297209,JakCard,Ulya Suartini,Female,1981,1T,Cibubur - Balai Kota,berangkat,20000,2023-04-25,18:17:32,19:37:18,Bank Indonesia 1-Wisma Nusantara,A91,B001,01:19:46
+CMSN093Y3P69KG,445804133051,JakCard,R. Balapati Usada,Male,1982,11Q,Kampung Melayu - Pulo Gebang via BKT,berangkat,3500,2023-04-28,21:01:14,22:20:04,Komplek Wijaya Kusuma 1-Dinas Kebersihan Duren Sawit,A92,B001,01:18:50
+RYTB734S3U29UM,445442128483,Flazz,drg. Kayun Safitri,Male,1987,M3,Kalideres - Bundaran HI via Veteran,berangkat,3500,2023-04-10,06:52:22,07:48:09,Rawa Buaya-Dispenda Samsat Barat,A93,B006,00:55:47
+CJKR477H6K02SB,445135320070,JakCard,Ir. Murti Dabukke,Female,2007,M9,Pinang Ranti - Pluit,berangkat,3500,2023-04-14,18:35:22,20:32:46,Slipi Petamburan Arah Utara-Pancoran Barat Arah Timur,A79,B001,01:57:24
+CMFA996P5J03GA,445859657524,JakCard,"Dasa Hastuti, S.Psi",Male,1984,JAK.115,Term. Tj. Priok - Pegangsaan II IGI,berangkat,3500,2023-04-18,05:26:47,05:52:14,Jln. Elpa Putih II-Term. Tj. Priok 1,A94,B001,00:25:27
+RPWJ867R1S43ZI,445605092626,BRIZZI,"Winda Winarno, S.Pd",Male,1946,10K,Tanjung Priok - Senen via Taman BMW,berangkat,3500,2023-04-12,19:23:53,21:04:37,Jln. Bungur Besar VI-Masjid Jami Al Badariah Kemayoran,A95,B005,01:40:44
+DDUM692N9A46XI,445211483702,JakCard,"drg. Martaka Situmorang, S.Sos",Male,1992,9C,Pinang Ranti - Bundaran Senayan,berangkat,3500,2023-04-04,19:10:52,20:55:09,Garuda Taman Mini-Pinang Ranti,A96,B001,01:44:17
+WDFC711X9B23UV,445120705009,E-Money,"Kamaria Megantara, S.IP",Male,1997,9H,Blok M - Universitas Indonesia,arah balik,3500,2023-04-18,16:41:13,17:37:35,Ps. Santa-Tirtayasa 1,A97,B003,00:56:22
+HYSI354C7P55HD,445184177495,JakCard,Galih Budiyanto,Female,2005,8A,Jelambar - Juanda,arah balik,3500,2023-04-19,08:03:44,09:00:42,Petojo-Pecenongan,A43,B001,00:56:58
+EVYE073K1J57LP,445412715293,JakCard,Bancar Irawan,Male,1999,3B,Rusun Flamboyan - Cengkareng,berangkat,3500,2023-04-10,16:37:56,18:27:17,Puskesmas Cengkareng-Perumahan KFT 1,A98,B001,01:49:21
+KTUI394N8P32FB,445225342285,BRIZZI,"Cahyo Hutagalung, S.Pt",Male,1989,JAK.06,Kampung Rambutan - Pondok Gede,arah balik,3500,2023-04-19,06:56:10,07:53:18,Masjid Al Barokah 1-Sbr. Jln. Mini II,A99,B005,00:57:08
+GUNG919R7I64JE,445919393462,JakCard,Titin Yolanda,Male,1989,JAK.106,Terminal Kampung Melayu - Terminal Klender,berangkat,3500,2023-04-19,06:07:41,07:44:44,Jln. Aneka Elok 2-Simpang Lingkar Duren Sawit,A100,B001,01:37:03
+HCAD808P8M03KQ,445935337512,BRIZZI,Baktiono Prakasa,Female,1981,6U,Blok M - Pasar Minggu,berangkat,3500,2023-04-24,16:43:59,18:24:47,Wolter Monginsidi-Tirtayasa 1,A101,B005,01:40:48
+LICK999C9H75JC,445659823515,Flazz,Talia Prayoga,Male,1985,S22,Ciputat - Kampung Rambutan,berangkat,3500,2023-04-05,07:34:34,08:52:17,Lebak Bulus-Jln. Sandratex 2,A102,B006,01:17:43
+CWPE577R0R25FF,445897915119,BRIZZI,Warsa Gunawan,Female,1986,5B,Stasiun Tebet - BNN,berangkat,3500,2023-04-03,16:32:54,18:01:49,BNN LRT-St. Tebet 1,A103,B005,01:28:55
+RGCP622L0Z64CZ,445915122632,JakCard,Hasta Anggriawan,Female,2000,8K,Batusari - Grogol,berangkat,3500,2023-04-25,05:46:41,06:39:53,Ps. Kopro 2-Simpang Kemanggisan Ilir Raya,A104,B001,00:53:12
+ZHFK233N3Y40DG,445915122632,JakCard,Hasta Anggriawan,Female,2000,8K,Batusari - Grogol,berangkat,3500,2023-04-13,05:10:39,05:41:25,Ps. Kopro 2-Simpang Kemanggisan Ilir Raya,A104,B001,00:30:46
+JOFL944L1F03OT,445008340435,TapCash,Tari Hutagalung,Male,2009,JAK.30,Grogol - Meruya via Roxy,arah balik,3500,2023-04-07,18:48:52,20:45:08,Komplek Keuangan Saaba-Perumahan Mawar Joglo,A105,B004,01:56:16
+VZSW154E6Y59LJ,445169660900,JakCard,drg. Prayogo Yuniar,Male,1959,8C,Kebayoran Lama - Tanah Abang,berangkat,3500,2023-04-20,08:54:55,10:15:33,Tanah Abang 2-St. Karet,A106,B001,01:20:38
+BUJP874B8C19RU,445038909652,JakCard,"R.A. Salwa Yuliarti, M.TI.",Female,1969,1B,Stasiun Palmerah - Tosari,arah balik,3500,2023-04-19,20:20:01,22:06:52,Dukuh Atas-Tosari,A107,B001,01:46:51
+TUXD134T3R73LR,445872914334,MegaCash,Ir. Prakosa Maryadi,Female,1994,10,Tanjung Priok - PGC 2,berangkat,3500,2023-04-15,17:15:15,18:42:06,Utan Kayu Rawamangun-Yos Sudarso Kodamar,A108,B002,01:26:51
+YOIB397H8F39BY,445291266067,JakCard,"Drs. Aslijan Manullang, S.T.",Female,2003,7,Kampung Rambutan - Bidara Cina,arah balik,3500,2023-04-09,08:12:40,09:01:32,BKN-Bidara Cina,A109,B001,00:48:52
+XAAN400Q1H90UG,445725214175,JakCard,Najwa Situmorang,Male,1996,JAK.43C,Sarana Jaya - Tebet Eco Park (TEP) - Stasiun Cawang,arah balik,3500,2023-04-19,19:05:21,19:58:06,Tebet Eco Park Selatan 4-Jln. Tebet Timur Dalam VIII J,A110,B001,00:52:45
+AIXT595T2G51EJ,445057040628,MegaCash,"Salimah Gunarto, M.Pd",Female,1968,B21,Bekasi Timur - Cawang,berangkat,3500,2023-04-16,10:18:44,11:45:50,GP Mall 2-BTC 2,A111,B002,01:27:06
+GUIQ324H6K13QJ,445659823515,Flazz,Talia Prayoga,Male,1985,S22,Ciputat - Kampung Rambutan,arah balik,3500,2023-04-25,18:49:48,19:43:59,SMK Darussalam-RA Kartini,A112,B006,00:54:11
+IRWD787M8K23IU,445759216530,E-Money,R.M. Rafi Puspita,Male,1966,JAK.72,Kampung Rambutan - Pasar Rebo via Poncol,berangkat,3500,2023-04-19,17:45:33,19:11:30,Masjid Jami Fathurrahman Ciracas-Kel. Ciracas,A113,B003,01:25:57
+RYWF426Q1O28KO,445539325306,E-Money,Jelita Maryadi,Male,1976,12B,Pluit - Senen,berangkat,3500,2023-04-21,05:38:36,06:17:05,Aston Pluit 2-Ps. Muara Karang,A114,B003,00:38:29
+LEWA121Q2L73RH,445235168637,JakCard,Ira Andriani,Male,2004,JAK.113,Rusun Sindang Koja - Kp. Sawah,arah balik,3500,2023-04-25,08:10:52,09:22:26,Kec. Cilincing-Puskesmas Cilincing,A115,B001,01:11:34
+EYSX682S5X38UT,445706246773,BRIZZI,Cemeti Padmasari,Female,1993,7C,Cibubur - BKN,arah balik,3500,2023-04-26,16:32:02,17:53:40,Cibubur Junction-BKN,A116,B005,01:21:38
+LURB622B6Z97HO,445298466604,BRIZZI,Oskar Mangunsong,Female,1995,8,Lebak Bulus - Pasar Baru via Tomang,berangkat,3500,2023-04-18,09:46:12,11:41:50,Pondok Indah 1-Lebak Bulus,A117,B005,01:55:38
+FNXJ014E2D83WH,445742818058,JakCard,Hesti Safitri,Female,2001,JAK.44,Andara - Stasiun Universitas Pancasila,berangkat,3500,2023-04-18,18:34:28,19:36:31,Andara Margasatwa 4-Jln. H. Terin Pangkalan Jati,A118,B001,01:02:03
+NQLT609L1X84JL,445098705837,TapCash,"Ulva Habibi, S.Pt",Female,1997,JAK.28,Kp. Rambutan - Taman Wiladatika,arah balik,3500,2023-04-14,17:20:01,18:37:29,Komplek Perum Ad Cibubur-Sekolah Al Wahyu Cibubur,A119,B004,01:17:28
+VEQH408Q4U55HK,445168178956,E-Money,"Umi Hariyah, S.E.I",Female,1990,JAK.26,Rawamangun - Duren Sawit,arah balik,3500,2023-04-30,14:09:36,15:18:32,Tanah Koja-Pool Hiba Utama 1,A120,B003,01:08:56
+ZHWI964F2S24ZM,445239591209,MegaCash,R.A. Malika Hasanah,Female,2012,JAK.19,Pinang Ranti - Kampung Rambutan,berangkat,3500,2023-04-21,20:11:55,21:24:24,Simpang Rukun 2-Jln. Tpa II,A121,B002,01:12:29
+SGUV668Y9R99SQ,445324711852,JakCard,"Cagak Maheswara, S.Sos",Female,1992,B14,Bekasi Barat - Kuningan,arah balik,20000,2023-04-19,17:18:12,18:26:43,Kemenkes 2-Setiabudi Utara 2,A122,B001,01:08:31
+ZIWS621R8H46NV,445103349470,TapCash,Dina Pratiwi,Male,1988,S11,BSD - Jelambar,arah balik,3500,2023-04-25,07:02:16,07:42:30,Gading Serpong 1-Tol Kb. Jeruk 2,A86,B004,00:40:14
+WZFH925K5M40GF,445923833345,Flazz,Cahyono Permata,Female,2004,JAK.24,Senen - Pulo Gadung via Kelapa Gading,berangkat,3500,2023-04-15,20:29:31,21:00:37,Sunter Kelapa Gading 2-Jln. Gading Raya,A123,B006,00:31:06
+XCPJ244F5N88UW,445412504310,JakCard,"T. Dadap Pradana, M.Ak",Male,2004,1Q,Rempoa - Blok M,berangkat,3500,2023-04-18,16:50:55,18:19:15,Taman Puring 2-Jln. IKPN Bintaro,A124,B001,01:28:20
+WDUN398R5L80QO,445988408141,BRIZZI,Yahya Narpati,Female,2010,JAK.39,Kalimalang - Duren Sawit,berangkat,3500,2023-04-20,21:22:01,23:19:18,Jln. Swadaya Raya-Simpang Serdang Swadaya Raya 2,A125,B005,01:57:17
+PWWL862Q8M37BK,445887303934,Flazz,Edi Lazuardi,Male,1995,11B,Rusun Rawa Bebek - Penggilingan,berangkat,3500,2023-04-10,06:46:54,07:17:25,Penggilingan 1-Rusun Rawa Bebek,A126,B006,00:30:31
+ZPIU433R9L75WB,445755075650,MegaCash,Restu Pudjiastuti,Male,1980,11Q,Kampung Melayu - Pulo Gebang via BKT,arah balik,3500,2023-04-10,06:59:47,08:16:32,Flyover Radin Inten 1-Jln. Kel. Raya,A127,B002,01:16:45
+YCZM121E3F78DA,445408754260,JakCard,Dr. Luwes Mandala,Female,1988,JAK.38,Bulak Ringin - Kampung Rambutan,berangkat,3500,2023-04-11,06:17:08,07:23:54,Mushola Al Muhajirin Cibubur-Jln. H. Ali Solihin Cibubur,A128,B001,01:06:46
+TSBW181T5Z72UW,445450148105,E-Money,Garan Pertiwi,Female,1986,M13,Puri Beta 2 - Tendean,berangkat,3500,2023-04-21,06:50:42,07:38:39,Mayestik-Swadarma,A129,B003,00:47:57
+KYAX576A7M01IE,445673975704,E-Money,Rafid Pranowo,Female,2004,6U,Blok M - Pasar Minggu,berangkat,3500,2023-04-19,08:16:09,08:37:56,Jln. Poncol Jaya 1-Ps. Santa,A130,B003,00:21:47
+DGVC759K7P07KI,445792487656,JakCard,"drg. Bancar Wijayanti, S.Sos",Female,1999,JIS3,Harmoni - Jakarta International Stadium,arah balik,3500,2023-04-25,18:56:07,20:06:11,Sbr. Jembatan Item-Kemayoran Landas Pacu Timur,A131,B001,01:10:04
+XTKG055Q1A66BB,445407822698,JakCard,"drg. Karna Lestari, M.Kom.",Male,2003,6C,Stasiun Tebet - Karet via Patra Kuningan,arah balik,3500,2023-04-12,19:37:53,21:10:21,Sbr. Manhattan Hotel-Karet Pedurenan 1,A132,B001,01:32:28
+BASK648A0V01MT,445847575765,E-Money,"Dt. Murti Salahudin, S.T.",Female,2008,JAK.64,Lenteng Agung - Aseli,arah balik,3500,2023-04-17,16:08:39,18:07:57,Sbr. Polsek Jagakarsa-Simpang Warung Sila Rindang,A133,B003,01:59:18
+EZKI282Z8A17FN,445313684324,BRIZZI,dr. Balangga Zulkarnain,Female,1989,JIS3,Harmoni - Jakarta International Stadium,berangkat,3500,2023-04-10,20:50:25,21:56:28,Harmoni Arah Utara-Sawah Besar Arah Selatan,A134,B005,01:06:03
+ZHBD989A6D69QJ,445684089145,JakCard,Wulan Januar,Male,1978,JAK.13,Tanah Abang - Jembatan Lima,berangkat,3500,2023-04-26,17:12:17,18:43:23,Term. Bayangan Kota Intan-Simpang Pakin 2,A135,B001,01:31:06
+BVLO076F9V22DM,445895088562,E-Money,dr. Gasti Budiyanto,Male,1998,5C,PGC - Juanda,arah balik,3500,2023-04-06,06:54:49,07:37:42,Matraman 1-Kwitang,A136,B003,00:42:53
+RMQV112R2S43TK,445169649209,JakCard,"Eli Palastri, S.Farm",Male,1992,10H,Tanjung Priok - Blok M,arah balik,3500,2023-04-15,17:52:45,19:13:33,Tomang Mandala-Masjid Agung,A137,B001,01:20:48
+KBCM192R2H38TN,445618408028,JakCard,Harsaya Rahayu,Male,1998,2A,Pulo Gadung - Rawa Buaya via Balai Kota,berangkat,3500,2023-04-13,06:24:26,07:21:37,Taman Kota-Monas,A138,B001,00:57:11
+PUYU378Z3N38AM,445994502593,JakCard,Darmanto Rajasa,Female,1991,JAK.03,Lebak Bulus - Andara,berangkat,3500,2023-04-18,06:29:35,07:10:15,SDN Pondok Labu 11-Jln. Baros,A139,B001,00:40:40
+SDQZ301G8Y84UH,445286021361,E-Money,Darman Purwanti,Male,1999,11Q,Kampung Melayu - Pulo Gebang via BKT,arah balik,3500,2023-04-18,05:45:43,06:11:25,Masjid Jami At Taqwa 2-SMAN 100,A140,B003,00:25:42
+NGWE621M6N57UJ,445606229631,JakCard,Balijan Damanik,Male,2003,B21,Bekasi Timur - Cawang,berangkat,3500,2023-04-14,07:16:50,08:09:58,BNN LRT-Bulak Kapal 2,A141,B001,00:53:08
+YSFP683C2E54RA,445623952930,Flazz,Vega Anggraini,Female,1990,JAK.35,Pangkalan Jati - Rawamangun,berangkat,3500,2023-04-27,07:13:31,07:38:26,SDN Jati 07-Komplek Wijaya Kusuma 1,A142,B006,00:24:55
+LJJR447U6R12QA,445768494911,JakCard,"Danu Pradipta, S.Pd",Male,1977,JAK.112,Terminal Tanah Merah - Pulo Gadung,arah balik,3500,2023-04-13,17:32:46,18:55:34,Boulevard Janur Elok Raya 1-Simpang Seruling Musik Raya,A143,B001,01:22:48
+EVUV421Y4C22FU,445593059325,E-Money,Hj. Ana Laksita,Female,1990,6H,Senen - Lebak Bulus,arah balik,3500,2023-04-06,21:34:22,23:04:11,St. Cikini Barat-RSUD Pasar Minggu,A144,B003,01:29:49
+LALW453G0L85FT,445930051377,TapCash,Hj. Mala Permata,Male,1982,3E,Puri Kembangan - Sentraland Cengkareng,berangkat,3500,2023-04-28,09:07:20,10:51:17,Komplek Ruko Interkota-Sbr. Mutiara Taman Palem 1,A145,B004,01:43:57
+NYVB598S1Z06WW,445550506719,JakCard,Suci Hutagalung,Female,1971,JAK.36,Cilangkap - Cililitan,arah balik,3500,2023-04-13,05:04:55,05:26:44,Jln. Damai PBSI Cilangkap-RS Restu Kasih,A146,B001,00:21:49
+SRYF816P0Z06UQ,445539325306,E-Money,Jelita Maryadi,Male,1976,12B,Pluit - Senen,berangkat,3500,2023-04-18,05:48:15,06:12:25,Aston Pluit 2-Ps. Muara Karang,A114,B003,00:24:10
+ZYUM245D7Y29WD,445361712495,BRIZZI,"dr. Farah Yuliarti, M.Pd",Female,1985,6C,Stasiun Tebet - Karet via Patra Kuningan,arah balik,3500,2023-04-14,11:07:43,11:45:45,Ariobimo Sentral-Sbr. Standard Chartered,A147,B005,00:38:02
+BZZN339N0F03OV,445885273574,JakCard,"Drs. Among Wijaya, S.Pt",Female,1978,JIS3,Harmoni - Jakarta International Stadium,arah balik,3500,2023-04-16,20:11:16,20:54:52,Sbr. Taman BMW-Sunter Muara,A148,B001,00:43:36
+XGPM512U1S79HY,445726578859,JakCard,Irfan Damanik,Male,1993,14,Jakarta International Stadium - Senen,berangkat,3500,2023-04-13,05:25:30,06:20:23,Jembatan Item-JIS,A149,B001,00:54:53
+JTNB653N6U27XG,445245369312,JakCard,Gara Sitompul,Female,1999,9D,Pasar Minggu - Tanah Abang,arah balik,3500,2023-04-28,05:44:45,06:13:33,Grand Pasar Minggu-Pasar Minggu,A150,B001,00:28:48
+CUMX923B4K88KI,445465992830,JakCard,Drs. Lasmanto Wacana,Female,1987,JAK.08,Roxy - Benhil,berangkat,3500,2023-04-10,21:27:49,23:00:18,JPO Blok G-Sbr. Taman Tulang Bawang,A151,B001,01:32:29
+QJEU137T0F67IL,445566693884,Flazz,Dr. Taufan Jailani,Female,1989,D11,Depok - BKN,arah balik,3500,2023-04-05,18:51:24,20:40:19,Sbr. Gg. Saminten-BKN,A152,B006,01:48:55
+TGWZ205B8R51MA,445340374361,MegaCash,Wisnu Mardhiyah,Female,1983,12H,Rusun Penjaringan - Penjaringan,berangkat,3500,2023-04-05,08:07:03,09:23:41,Penjaringan-Rusun Penjaringan,A153,B002,01:16:38
+RSEZ570N2N56SM,445506925894,JakCard,Mala Agustina,Male,1961,9N,Pinang Ranti - Pramuka,arah balik,3500,2023-04-23,20:26:25,20:41:50,Garuda Taman Mini-BKN,A154,B001,00:15:25
+QTKX681T5T72PW,445848322751,E-Money,Balamantri Safitri,Male,1988,JAK.59,Rawamangun - Tanah Merah,berangkat,3500,2023-04-16,13:52:48,14:22:49,Pulo Mas Residence-Sbr. SMAN 21,A155,B003,00:30:01
+RAHX641Q5Q28ES,445704437707,JakCard,dr. Paris Rahayu,Male,1968,10A,Rusun Marunda - Tanjung Priok,berangkat,3500,2023-04-19,17:20:42,18:11:10,Tanjung Priok-Rusun Marunda,A156,B001,00:50:28
+EGPF333V7S22CL,445514237038,JakCard,Gambira Sihombing,Female,1976,JAK.112,Terminal Tanah Merah - Pulo Gadung,arah balik,3500,2023-04-06,07:05:35,08:46:11,Jln. Kelapa Nias IV-Sbr. SDN Pegangsaan Dua 07,A157,B001,01:40:36
+WAYK271B6Z83VP,445553298563,BRIZZI,Harsaya Utama,Female,2001,13D,Puri Beta - Ragunan,berangkat,3500,2023-04-07,19:51:15,20:54:11,Pejaten-Seskoal,A158,B005,01:02:56
+DUUD656M6Q22FV,445443224374,BRIZZI,drg. Tantri Situmorang,Female,1983,12,Tanjung Priok - Pluit,arah balik,3500,2023-04-18,17:56:24,19:11:20,Penjaringan-Pluit,A159,B005,01:14:56
+LBGU827F6N40XR,445741885734,TapCash,"Teguh Wijaya, S.Pt",Female,1981,5C,PGC - Juanda,arah balik,3500,2023-04-17,05:33:08,06:30:06,Tegalan-Pal Putih,A160,B004,00:56:58
+YPAW149S9A38ZF,445964089839,JakCard,Eli Budiman,Male,1977,11B,Rusun Rawa Bebek - Penggilingan,berangkat,3500,2023-04-13,07:56:16,09:37:26,Walikota Jakarta Timur 1-Rusun Rawa Bebek,A161,B001,01:41:10
+VKDS469Y7H74YR,445579356446,E-Money,Balidin Pradana,Female,2003,2B,Harapan Indah - ASMI,berangkat,3500,2023-04-12,07:25:38,08:05:02,Lion Metal 2-KPP Pratama Cakung 2,A18,B003,00:39:24
+IEZT965G3Q17HF,445825602398,E-Money,"R. Kamila Ramadan, S.Farm",Female,1989,JAK.117,Tanjung Priok - Tanah Merdeka,berangkat,3500,2023-04-21,21:05:36,22:26:15,Masjid Al Waqof-Jln. Muncang,A162,B003,01:20:39
+LCKZ465M4H33ZV,445915252472,JakCard,"Nardi Natsir, S.I.Kom",Male,2007,JAK.71,Kampung Rambutan - Pinang Ranti,berangkat,3500,2023-04-20,21:29:45,22:56:11,Sbr. Jln. Man 2-Mutiara Pulo Dukuh,A163,B001,01:26:26
+KELK681V6X75YZ,445825602398,E-Money,"R. Kamila Ramadan, S.Farm",Female,1989,JAK.117,Tanjung Priok - Tanah Merdeka,berangkat,3500,2023-04-24,21:58:48,23:55:18,Masjid Al Waqof-Jln. Muncang,A162,B003,01:56:30
+CIUI912M2X61MW,445391278667,MegaCash,R.A. Betania Maulana,Female,1975,JAK.27,Pulo Gebang - Rorotan,berangkat,3500,2023-04-27,17:50:41,18:44:52,Sbr. Masjid At Taqwa Karang Tengah-Jln. Rorotan IX Gg. IV,A164,B002,00:54:11
+BYOF367C3A98PG,445862816264,BRIZZI,Bakiman Budiman,Female,1981,7Q,Blok M - PGC,berangkat,3500,2023-04-05,06:31:16,06:56:17,Jln. Poncol Jaya 1-PLN Pusat,A165,B005,00:25:01
+SBJN303H4E82WG,445553298563,BRIZZI,Harsaya Utama,Female,2001,13D,Puri Beta - Ragunan,arah balik,3500,2023-04-10,09:48:01,10:17:56,Kebayoran Lama-Ragunan,A166,B005,00:29:55
+JOGG970D3T54MW,445923238416,MegaCash,"Drs. Gilda Sinaga, S.Psi",Male,1994,JAK.43C,Sarana Jaya - Tebet Eco Park (TEP) - Stasiun Cawang,arah balik,3500,2023-04-04,16:04:26,18:03:51,Jln.Tebet Barat V-Tebet Eco Park Selatan 4,A167,B002,01:59:25
+PIIL112G9V90WV,445574309659,JakCard,Yessi Saputra,Female,2002,JAK.60,Kelapa Gading - Rusun Kemayoran,berangkat,3500,2023-04-17,19:03:36,19:57:56,Jln. Kelapa Hybrida IV-Pusat Pelayanan Warga Summarecon,A168,B001,00:54:20
+ANUG795S9C78FQ,445125154137,BRIZZI,"R. Saiful Riyanti, S.E.I",Female,1990,JAK.72,Kampung Rambutan - Pasar Rebo via Poncol,arah balik,3500,2023-04-15,16:43:59,17:54:47,Litbang Depnaker Jaktim-Sbr. Sekolah Islam PB Soedirman,A169,B005,01:10:48
+JCCO565J1O88BX,445119520242,BRIZZI,Mala Salahudin,Female,1983,JAK.86,Term. Rawamangun - Term. Manggarai,arah balik,3500,2023-04-26,08:29:24,09:52:26,Jln. Cipinang Timur Persahabatan-Flyover Jatinegara Atas,A170,B005,01:23:02
+CUSA670G5W96XZ,445473258377,E-Money,Ulva Suryono,Female,2000,1C,Pesanggrahan - Blok M,berangkat,3500,2023-04-24,09:50:55,11:50:15,Jln. Palatehan-SMPN 235,A171,B003,01:59:20
+PFVH374Q0O06KI,445282552444,JakCard,Rahayu Prabowo,Female,1994,10H,Tanjung Priok - Blok M,arah balik,3500,2023-04-06,09:50:18,10:48:32,Pademangan-Tomang Mandala,A172,B001,00:58:14
+CPGQ962Q7Q57MU,445491984543,JakCard,"drg. Salwa Kusmawati, S.IP",Female,2011,1A,Pantai Maju - Balai Kota,arah balik,3500,2023-04-26,09:12:05,10:54:05,Glodok-Monas,A173,B001,01:42:00
+UNNP923G9Y20AB,445655563095,JakCard,Gangsar Siregar,Male,1996,2A,Pulo Gadung - Rawa Buaya via Balai Kota,arah balik,3500,2023-04-12,17:16:27,19:03:52,Petojo-Jelambar,A174,B001,01:47:25
+KUYB008P3V71GN,445524786545,MegaCash,"Lanang Setiawan, S.I.Kom",Female,1994,D21,Universitas Indonesia - Lebak Bulus,arah balik,3500,2023-04-07,08:53:33,09:24:49,Plaza Oleos-Ampera 2,A175,B002,00:31:16
+NPYA355I6J82TF,445618984101,MegaCash,Balapati Gunarto,Male,1977,9F,Rusun Tambora - Pluit,berangkat,3500,2023-04-04,17:55:49,19:27:02,Jembatan Dua-Rusun Tambora,A176,B002,01:31:13
+CQJR111P9W31ZA,445780937491,BRIZZI,Murti Kurniawan,Male,2010,6T,Pasar Minggu - Velbak,arah balik,3500,2023-04-25,05:29:09,06:18:14,Simpang Tunda Bara TB Simatupang-Simpang Darmawangsa X,A177,B005,00:49:05
+LYFV210Y2C00TA,445372742836,Flazz,Aurora Waskita,Male,2004,R1A,Pantai Maju - Kota,arah balik,3500,2023-04-10,17:29:13,19:16:04,Karang Asri 2-Simpang Pakin 3,A178,B006,01:46:51
+WQCW936D6Z64TU,445216167448,Flazz,Soleh Natsir,Female,2000,JAK.18,Kalibata - Kuningan,arah balik,3500,2023-04-19,07:01:23,07:54:33,Sbr. Jln. Tebet Utara III-Keselamatan,A179,B006,00:53:10
+DERG357Z6P63IW,445681146557,JakCard,Oliva Saefullah,Female,1987,12C,Rusun Waduk Pluit - Penjaringan,berangkat,3500,2023-04-10,17:25:15,18:40:27,Gg. VIII Muara Baru-Rusun Waduk Pluit,A180,B001,01:15:12
+NKKA679V6C71OO,445663754043,JakCard,Paramita Budiyanto,Female,1997,8C,Kebayoran Lama - Tanah Abang,berangkat,3500,2023-04-05,05:13:13,05:36:07,Sbr. RSUD Tanah Abang-TPU Karet Bivak,A181,B001,00:22:54
+DLWQ526J9W78BJ,445663754043,JakCard,Paramita Budiyanto,Female,1997,8C,Kebayoran Lama - Tanah Abang,arah balik,3500,2023-04-21,16:57:59,18:52:07,Kesatrian Kowal Cut Nyak Dhien-Pospol Jati Bunder,A182,B001,01:54:08
+YZKH968P2B98OA,445387626081,JakCard,Puti Siregar,Male,1976,11P,Rusun Pondok Bambu - Walikota Jakarta Timur,arah balik,3500,2023-04-25,05:07:54,06:05:56,Rusun Pondok Bambu-Masjid Jami Al Barkah 1,A183,B001,00:58:02
+RYVE758Q2I97VI,445859110853,E-Money,dr. Lalita Budiyanto,Male,2011,2P,Gondangdia - Senen,berangkat,3500,2023-04-13,05:05:53,06:57:36,Simpang Gunung Sahari III-RSPAD 1,A184,B003,01:51:43
+PASL562I8H30DT,445466778644,E-Money,Rini Hutasoit,Male,1987,12,Tanjung Priok - Pluit,arah balik,3500,2023-04-21,07:14:37,07:53:49,Kali Besar Barat-Pluit,A185,B003,00:39:12
+UNMN121L0C53HN,445630764145,E-Money,Asirwada Marbun,Male,1985,D32,Cinere - Bundaran Senayan,arah balik,20000,2023-04-06,08:02:08,09:39:55,Gelora Bung Karno 1-Bundaran Senayan 1,A186,B003,01:37:47
+BAKW486P8K67OR,445267423701,JakCard,Suci Wacana,Male,1985,12A,Pelabuhan Kaliadem - Kota,arah balik,3500,2023-04-14,17:57:42,19:09:39,Perumahan Buddha Tzu Chi 1-Muara Angke,A187,B001,01:11:57
+PHMG631G6C11TB,445802693392,BRIZZI,Mahesa Tampubolon,Male,1972,1F,Stasiun Palmerah - Bundaran Senayan,berangkat,3500,2023-04-18,17:24:02,19:10:36,Senayan JCC Arah Barat-DPR MPR 2,A188,B005,01:46:34
+WKEA910J2S57LR,445128738359,JakCard,"H. Yahya Handayani, S.I.Kom",Female,1994,1E,Pondok Labu - Blok M,berangkat,3500,2023-04-27,17:01:09,18:57:34,Jln. Cilandak V-One Belpark 1,A189,B001,01:56:25
+HBEZ412O3J48RE,445663754043,JakCard,Paramita Budiyanto,Female,1997,8C,Kebayoran Lama - Tanah Abang,berangkat,3500,2023-04-07,06:33:22,07:27:19,Sbr. RSUD Tanah Abang-TPU Karet Bivak,A181,B001,00:53:57
+RPFQ346J6U24VF,445923238416,MegaCash,"Drs. Gilda Sinaga, S.Psi",Male,1994,JAK.43C,Sarana Jaya - Tebet Eco Park (TEP) - Stasiun Cawang,arah balik,3500,2023-04-12,16:40:13,18:01:46,Jln.Tebet Barat V-Tebet Eco Park Selatan 4,A167,B002,01:21:33
+LPNM895K4L42QD,445469076939,MegaCash,Dartono Natsir,Male,2006,5C,PGC - Juanda,berangkat,3500,2023-04-21,17:23:44,18:53:14,Kramat Sentiong-Gelanggang Remaja,A190,B002,01:29:30
+XLMB990B6W71CI,445361637300,BRIZZI,Dt. Gandi Wacana,Male,1981,6A,Ragunan - MH Thamrin via Kuningan,berangkat,3500,2023-04-14,06:26:07,07:44:41,Karet Kuningan-Warung Jati,A191,B005,01:18:34
+FFHJ192J9C76DY,445607568935,E-Money,Dt. Cakrajiya Mardhiyah,Female,1992,10A,Rusun Marunda - Tanjung Priok,arah balik,3500,2023-04-10,09:35:30,11:14:23,Simpang Pitungan-Enggano,A192,B003,01:38:53
+MELT142J0C91VX,445566693884,Flazz,Dr. Taufan Jailani,Female,1989,D11,Depok - BKN,arah balik,3500,2023-04-12,18:21:09,20:15:08,Sbr. Gg. Saminten-BKN,A152,B006,01:53:59
+UAUH943Z6A09ZY,445391278667,MegaCash,R.A. Betania Maulana,Female,1975,JAK.27,Pulo Gebang - Rorotan,berangkat,3500,2023-04-18,18:56:20,20:51:35,Sbr. Masjid At Taqwa Karang Tengah-Jln. Rorotan IX Gg. IV,A164,B002,01:55:15
+ZBTO401J6U44FO,445672795386,MegaCash,Cengkal Lestari,Male,1970,JAK.25,Kp. Rambutan - Kalisari,berangkat,3500,2023-04-17,19:37:32,21:26:46,Sbr. Jln. Damai Kalisari-Term. Kampung Rambutan,A193,B002,01:49:14
+HHSP443Q3S91XG,445923819028,E-Money,"R.A. Vivi Utama, S.T.",Male,1969,4B,Stasiun Manggarai - UI,arah balik,3500,2023-04-18,20:53:38,22:06:39,Poltek Bunda Kandung-St. Lenteng Agung 1,A57,B003,01:13:01
+AQJJ214M1Y31EC,445412715293,JakCard,Bancar Irawan,Male,1999,3B,Rusun Flamboyan - Cengkareng,berangkat,3500,2023-04-20,16:38:26,18:08:36,Puskesmas Cengkareng-Perumahan KFT 1,A98,B001,01:30:10
+QTHD847W2E83GX,445517513116,JakCard,Yessi Tamba,Female,2007,1H,Tanah Abang - Stasiun Gondangdia,berangkat,3500,2023-04-05,06:55:59,08:44:56,SMKN 38-DPRD JakCard Jakarta,A194,B001,01:48:57
+OBHU016K7W96EZ,445476523089,MegaCash,Jaeman Natsir,Female,1991,11C,Rusun Pinus Elok - Rusun Pulo Gebang,arah balik,3500,2023-04-17,18:52:35,20:18:59,Gg. Sawo 2-Pintu Masuk PIK 2,A195,B002,01:26:24
+BZKC855W2D24RA,445676491933,Flazz,Queen Tarihoran,Male,1983,5,Matraman Baru - Ancol,berangkat,3500,2023-04-04,08:31:01,10:30:50,Budi Utomo-Pal Putih,A196,B006,01:59:49
+NZDM762D1F03OU,445827143387,MegaCash,"Hj. Ophelia Haryanti, S.Sos",Male,2002,9E,Kebayoran Lama - Jelambar,berangkat,3500,2023-04-07,05:03:40,05:37:11,Apartemen Simprug Teras-Pasar Kebayoran Lama,A197,B002,00:33:31
+WBJF493E4O97NF,445616629249,JakCard,Taufik Farida,Female,1981,JAK.02,Kampung Melayu - Duren Sawit,berangkat,3500,2023-04-05,17:19:49,18:30:07,Masjid Jami Attaubah 2-Term. Kampung Melayu,A198,B001,01:10:18
+MQTA952J5M33QB,445321872245,JakCard,Sutan Kariman Situmorang,Female,2012,2A,Pulo Gadung - Rawa Buaya via Balai Kota,berangkat,3500,2023-04-28,21:54:12,23:50:03,RS Islam-Cempaka Timur,A199,B001,01:55:51
+DWCX862K0W28ZF,445434799531,E-Money,"Nurul Handayani, S.Ked",Male,1995,S31,Bintaro - Fatmawati,berangkat,20000,2023-04-25,07:29:02,08:28:45,St. MRT Fatmawati-Jln. Kaimun Jaya,A200,B003,00:59:43
+ZBTY804O2B11JD,445494160904,E-Money,Laras Mandala,Female,1987,JAK.71,Kampung Rambutan - Pinang Ranti,berangkat,3500,2023-04-15,19:41:23,19:57:44,Pondok Gede Raya-SMPN 263,A201,B003,00:16:21
+NLST163N8U04MF,445030532295,E-Money,Pranata Wahyudin,Female,2009,JAK.36,Cilangkap - Cililitan,arah balik,3500,2023-04-13,06:03:14,06:54:20,Ps. Kramat Jati 2-Jln. Olahraga 1 Raya Bogor,A202,B003,00:51:06
+BGIH664N7Y72YQ,445042671063,JakCard,Bakiman Mahendra,Male,1983,JAK.24,Senen - Pulo Gadung via Kelapa Gading,arah balik,3500,2023-04-25,18:36:34,19:35:45,Simpang Gunung Sahari III-Term. Senen,A31,B001,00:59:11
+JREJ758W1F76QN,445911628644,JakCard,Jasmani Tamba,Male,2002,6P,Cibubur - Kuningan,arah balik,20000,2023-04-19,19:45:24,21:25:26,Kuningan Timur 2-Kemenkes 1,A203,B001,01:40:02
+ISES386R2S56TQ,445912675595,JakCard,Wawan Wacana,Male,2009,JAK.72,Kampung Rambutan - Pasar Rebo via Poncol,arah balik,3500,2023-04-18,09:53:20,10:27:14,Kel. Susukan-Simpang Raya Bogor Suci,A204,B001,00:33:54
+BULX792K0F29PG,445205413961,JakCard,Ade Halimah,Female,1993,1R,Senen - Tanah Abang,berangkat,3500,2023-04-13,17:07:39,18:54:38,Jln. Taman Jatibaru Timur-SMKN 38,A205,B001,01:46:59
+HDTZ442L2B98DW,445745047421,BRIZZI,Galur Riyanti,Female,1980,JAK.44,Andara - Stasiun Universitas Pancasila,arah balik,3500,2023-04-25,06:00:11,06:56:10,Jln. H. Terin Pangkalan Jati-Kav Polri Blok E Jagakarsa,A206,B005,00:55:59
+ZJYP842L9V53JB,445298316293,E-Money,Gilang Susanti,Female,2004,JAK.06,Kampung Rambutan - Pondok Gede,berangkat,3500,2023-04-13,06:53:08,08:23:16,Griya Kukila Halim Perdanakusuma-Pondok Molek,A207,B003,01:30:08
+CVED463C1O97CG,445780937491,BRIZZI,Murti Kurniawan,Male,2010,6T,Pasar Minggu - Velbak,berangkat,3500,2023-04-25,17:57:06,19:48:14,Sbr. Jln. Barito II-Sbr. Jln. Pangeran Antasari,A208,B005,01:51:08
+ICMX877U9I58XJ,445897915119,BRIZZI,Warsa Gunawan,Female,1986,5B,Stasiun Tebet - BNN,berangkat,3500,2023-04-13,16:38:41,18:11:15,BNN LRT-St. Tebet 1,A103,B005,01:32:34
+XZIA473H7T06HQ,445413879817,JakCard,"Mila Ardianto, S.Pt",Male,1971,10H,Tanjung Priok - Blok M,arah balik,3500,2023-04-26,06:45:42,07:59:50,Masjid Agung-Kejaksaan Agung,A209,B001,01:14:08
+VMLA849X8Q08MN,445912675595,JakCard,Wawan Wacana,Male,2009,JAK.72,Kampung Rambutan - Pasar Rebo via Poncol,berangkat,3500,2023-04-05,20:37:57,22:04:29,Sbr. Premier Terrace-Term. Kampung Rambutan,A210,B001,01:26:32
+ZUWU498R1O45NV,445567213251,E-Money,Estiono Simbolon,Female,1994,JAK.80,Rawa Buaya - Rawa Kompeni,arah balik,3500,2023-04-07,17:53:48,19:22:06,Simpang Prepedan Benda Raya-MTsN 37,A211,B003,01:28:18
+TEMP090L8Q76CN,445098756748,JakCard,Tirtayasa Sitorus,Female,1988,JAK.06,Kampung Rambutan - Pondok Gede,arah balik,3500,2023-04-21,06:48:41,07:48:39,Jln. Kramat Lubang Buaya-Pertigaan Cedang 1,A212,B001,00:59:58
+SWLZ168A3N29CO,445302443879,JakCard,"Drs. Iriana Lazuardi, S.Pt",Female,1981,JAK.32,Lebak Bulus - Petukangan,arah balik,3500,2023-04-10,16:53:09,18:26:50,Mushola Nurul Huda Petukangan-Jln. Manunggal II Petukangan,A213,B001,01:33:41
+RIBY922V1Y05CX,445810597868,JakCard,Sadina Kurniawan,Female,1991,13B,Puri Beta - Pancoran Barat,arah balik,3500,2023-04-07,09:14:13,09:39:09,Puri Beta 2-Cipulir,A214,B001,00:24:56
+OKEJ062K2T82QV,445739554432,E-Money,Maryadi Haryanto,Male,1968,JAK.03,Lebak Bulus - Andara,berangkat,3500,2023-04-11,18:30:06,20:17:52,Simpang Adiaksa-Jln. Adiaksa II,A11,B003,01:47:46
+WOVY954S6I97SG,445382142828,E-Money,Jarwa Tampubolon,Female,2005,1T,Cibubur - Balai Kota,arah balik,20000,2023-04-27,09:19:21,10:59:31,Benhil 3-St. Sudirman 2,A215,B003,01:40:10
+MKFR287M2B90IX,445081545350,JakCard,Sutan Gandewa Napitupulu,Female,2008,11,Pulo Gebang - Matraman,berangkat,3500,2023-04-16,10:24:41,10:45:56,Flyover Klender-Walikota Jakarta Timur,A216,B001,00:21:15
+TIFK169I9R12VK,445511991968,JakCard,"R.A. Ani Mahendra, S.Gz",Female,1996,13C,Puri Beta - Dukuh Atas,berangkat,3500,2023-04-19,17:38:22,18:29:10,Cipulir-JORR,A217,B001,00:50:48
+ZBRW418J0T61EZ,445514237038,JakCard,Gambira Sihombing,Female,1976,JAK.112,Terminal Tanah Merah - Pulo Gadung,arah balik,3500,2023-04-26,09:55:08,11:04:06,Jln. Kelapa Nias IV-Sbr. SDN Pegangsaan Dua 07,A157,B001,01:08:58
+LZCE887O8O42LD,445686793855,JakCard,Saadat Halimah,Male,1986,JAK.74,Terminal Rawamangun - Cipinang Muara,berangkat,3500,2023-04-21,17:23:44,19:02:00,St. Klender 2-SMKN 50,A218,B001,01:38:16
+LHSK423D8I19VI,445768939680,TapCash,Drs. Aurora Tarihoran,Female,1983,JAK.52,Terminal Kalideres - Terminal Muara Angke,berangkat,3500,2023-04-15,12:12:33,13:43:47,SMKN 42-Sbr. Ps. Cengkareng,A219,B004,01:31:14
+AWAT295W2S94BM,445601069338,TapCash,Prayogo Mandala,Male,1988,2B,Harapan Indah - ASMI,berangkat,3500,2023-04-05,21:32:22,23:16:41,KPP Pratama Cakung 2-Sbr. Ps. Ujung Menteng,A25,B004,01:44:19
+BQOT575Q3L91ZH,445299656046,JakCard,Laila Pratama,Female,1986,S31,Bintaro - Fatmawati,arah balik,20000,2023-04-17,17:51:03,19:13:01,Bintaro Xchange-St. MRT Fatmawati,A220,B001,01:21:58
+FGNE774W7E05QY,445286932214,BRIZZI,Drs. Betania Wahyuni,Male,2010,JAK.120,JIS - Terminal Muara Angke,arah balik,3500,2023-04-10,05:47:24,06:18:43,Sbr. Waduk Pluit-SD Diakonia 2,A221,B005,00:31:19
+KLYG863A6D07HK,445303258056,E-Money,Jarwi Yolanda,Male,2003,M13,Puri Beta 2 - Tendean,berangkat,3500,2023-04-26,21:04:17,22:16:23,Seskoal-Cipulir,A222,B003,01:12:06
+BMEV358D5B97GY,445885890742,E-Money,Kayla Samosir,Male,2000,JAK.49,Lebak Bulus - Cipulir,arah balik,3500,2023-04-21,08:51:09,09:26:11,Jln. Gambas Kodam Bintaro-Jln. Cempedak Pesanggrahan,A223,B003,00:35:02
+PHNK804M4V54IU,445013098830,JakCard,Anom Yuliarti,Male,1990,JAK.29,Tanjung Priok - Sukapura,berangkat,3500,2023-04-24,08:17:53,09:29:55,SMK Tj. Priok 2-Taman Barito Sembar,A224,B001,01:12:02
+TOXM518T0L41MS,445294979003,JakCard,Karsana Budiman,Female,1985,3A,Rusun Pesakih - Kalideres,berangkat,3500,2023-04-03,19:58:43,21:37:52,Kalideres 1-Pertamina Kalideres Daan Mogot,A225,B001,01:39:09
+NYYJ455I2T13IC,445606568629,Flazz,"Harjaya Lazuardi, S.E.",Female,1973,JAK.07,Tanah Abang - Grogol via Tawakal,arah balik,3500,2023-04-19,17:27:23,19:10:11,Taman Juang 2-Sbr. Masjid Jami Al Hidayah Tomang,A226,B006,01:42:48
+XETL379J2Y99ZP,445788733787,Flazz,Surya Wacana,Female,1978,11D,Pulo Gebang - Pulo Gadung 2 via PIK,arah balik,3500,2023-04-12,06:34:44,07:14:12,Taman Elok 1-Raya Penggilingan,A227,B006,00:39:28
+ZXXA920S0G71DQ,445256620367,JakCard,Jais Thamrin,Female,1995,1M,Meruya - Blok M,arah balik,3500,2023-04-11,08:04:10,08:29:50,Jln. H. Rohimin Swadarma-Kartini Hospital 2,A228,B001,00:25:40
+FNCB350C7S50YP,445689910046,E-Money,R. Purwadi Suryatmi,Male,1998,JAK.24,Senen - Pulo Gadung via Kelapa Gading,arah balik,3500,2023-04-16,06:05:29,07:08:05,Simpang Danau Indah Raya-Sbr. Jln. H. Tamin S,A229,B003,01:02:36
+HDDB651E3F57XO,445496244612,E-Money,R. Pranawa Pranowo,Female,2012,JAK.113,Rusun Sindang Koja - Kp. Sawah,berangkat,3500,2023-04-22,05:11:59,05:52:47,Jln. A Lagoa-Masjid Al Mukarromah Jampea,A230,B003,00:40:48
+UETX709I0P44VW,445040989043,JakCard,Salimah Nurdiyanti,Male,1965,JAK.26,Rawamangun - Duren Sawit,berangkat,3500,2023-04-14,19:48:33,20:42:14,Arion Mall-Duren Sawit,A231,B001,00:53:41
+GAUL344E7K89AI,445891716971,E-Money,Panji Marbun,Female,1986,JAK.30,Grogol - Meruya via Roxy,arah balik,3500,2023-04-18,20:28:19,22:02:09,Ruko Meruya Ilir-Minagapura,A232,B003,01:33:50
+MAHN891V9S46RP,445124152597,TapCash,Tgk. Galang Firmansyah,Female,1985,9A,PGC 2 - Grogol 2,berangkat,3500,2023-04-11,06:42:07,08:37:09,Gatot Subroto Jamsostek Arah Timur-Pancoran Barat Arah Timur,A233,B004,01:55:02
+RLRT265F8Y47WY,445568025019,JakCard,"Lurhur Winarno, S.H.",Female,2006,1A,Pantai Maju - Balai Kota,arah balik,3500,2023-04-10,06:26:16,08:19:28,Gedong Panjang-Kota,A234,B001,01:53:12
+BDDR310I3R33FR,445896406741,JakCard,Raisa Maryadi,Female,1990,6N,Ragunan - Blok M via Kemang,arah balik,3500,2023-04-24,07:54:26,08:20:29,Kemang Raya 40-Puskesmas Kebayoran Baru,A235,B001,00:26:03
+RABU629A2Z50DN,445490815600,JakCard,"R.A. Oliva Yuliarti, M.Kom.",Female,1992,4D,Pulo Gadung 2 - Kuningan,arah balik,3500,2023-04-14,19:39:59,20:54:12,Halimun-Kuningan Madya,A236,B001,01:14:13
+OBDV487O4E43KF,445343559751,Flazz,Jaka Zulaika,Female,1996,M13,Puri Beta 2 - Tendean,berangkat,3500,2023-04-11,17:49:06,19:36:06,Adam Malik-Puri Beta 2,A237,B006,01:47:00
+ITFR390K3C77TU,445062611919,Flazz,"Tgk. Dasa Pangestu, S.E.I",Female,1965,7E,Kampung Rambutan - Ragunan,berangkat,3500,2023-04-07,17:02:43,17:57:35,Jln. Muara 1-RS Jantung Binawaluya,A238,B006,00:54:52
+YBAW584C4Z87ZO,445050947567,JakCard,"Tgk. Rika Riyanti, S.Sos",Female,1993,JAK.77,Tanjung Priok - Jembatan Item,arah balik,3500,2023-04-24,08:40:23,10:29:53,Jln. Dadap-Simpang Jln. Agung Permai 1,A239,B001,01:49:30
+EPTQ484J6S06WC,445893390520,MegaCash,Asmadi Agustina,Female,1983,JAK.27,Pulo Gebang - Rorotan,arah balik,3500,2023-04-27,07:50:57,09:34:16,Gempol Baru 2-Sbr. Komplek Sltp 200,A240,B002,01:43:19
+TPIR589B5J24PZ,445906040601,Flazz,"Rizki Firmansyah, M.Farm",Male,1976,JAK.15,Bulak Turi - Tanjung Priok,arah balik,3500,2023-04-10,08:40:34,09:35:48,Simpang Lagoa Ciampea-Term. Tj. Priok 1,A241,B006,00:55:14
+AYSR142H5I59BA,445362969850,Flazz,H. Hadi Susanti,Female,1992,10B,Rusun Cipinang Besar Selatan - Penas Kalimalang,berangkat,3500,2023-04-25,19:11:44,20:02:28,Penas Kalimalang 2-STMT Trisakti 1,A242,B006,00:50:44
+AGVZ697C2C84XD,445915258793,E-Money,Rahmi Nurdiyanti,Female,2001,5C,PGC - Juanda,berangkat,3500,2023-04-19,17:32:49,19:19:53,Pal Putih-BKN,A243,B003,01:47:04
+JPGV610K1A67CE,445676491933,Flazz,Queen Tarihoran,Male,1983,5,Matraman Baru - Ancol,berangkat,3500,2023-04-11,07:19:45,08:17:09,Budi Utomo-Pal Putih,A196,B006,00:57:24
+VHYA716D4O16VD,445299061173,JakCard,Tirta Siregar,Female,1993,1T,Cibubur - Balai Kota,arah balik,20000,2023-04-06,05:33:52,06:09:49,Benhil 3-Grand Sahid,A244,B001,00:35:57
+PSUA806P2O58BM,445806561158,MegaCash,Uchita Hassanah,Male,1985,5,Matraman Baru - Ancol,berangkat,3500,2023-04-26,20:28:03,21:21:32,Tegalan-Matraman Baru,A245,B002,00:53:29
+JPOJ575R5V40TZ,445292752363,JakCard,Gandi Widodo,Female,1997,6C,Stasiun Tebet - Karet via Patra Kuningan,arah balik,3500,2023-04-10,06:59:44,07:50:45,Kemenkes 2-Sampoerna Strategic,A246,B001,00:51:01
+DBOD967E2F44DQ,445913489239,JakCard,Latif Putra,Male,1976,JAK.58,Cilincing - Rorotan,berangkat,3500,2023-04-06,20:54:20,22:44:25,Jln. Nanggala Dewa Kembar-Koja Trade Mall,A247,B001,01:50:05
+TPFM748C4O10RB,445199165261,JakCard,Titi Prasetya,Female,2002,1P,Senen - Blok M,berangkat,3500,2023-04-14,17:21:05,18:51:41,Bundaran Senayan 2-Grand Sahid,A248,B001,01:30:36
+IRGD790T3P13KX,445881711152,TapCash,Halima Pangestu,Female,1993,2F,Rusun Cakung Barat - Pulo Gadung,arah balik,3500,2023-04-13,19:13:07,20:58:43,Tipar Cakung-Rusun Cakung Barat Albo,A249,B004,01:45:36
+XVFS516W9I95BV,445965135180,JakCard,Darman Salahudin,Male,1983,11D,Pulo Gebang - Pulo Gadung 2 via PIK,arah balik,3500,2023-04-24,20:40:20,22:20:27,SDN Penggilingan-Tipar Cakung,A250,B001,01:40:07
+SRYZ661H9I70WT,445766114494,JakCard,"Ir. Sakura Mayasari, M.M.",Female,1986,10A,Rusun Marunda - Tanjung Priok,arah balik,3500,2023-04-25,06:52:10,07:25:47,Rusun Marunda-Rusun Marunda 1,A251,B001,00:33:37
+SDWU060X6S07UW,445283789709,BRIZZI,Imam Pradana,Female,1981,5M,Kampung Melayu - Tanah Abang via Cikini,arah balik,3500,2023-04-09,14:21:53,14:52:09,Perpustakaan Nasional-JPO Blok G,A252,B005,00:30:16
+RHUU256X1Y92RH,445952394804,JakCard,Nilam Purnawati,Female,1982,BW9,Monas - Pantai Indah Kapuk,arah balik,3500,2023-04-10,08:09:17,09:15:58,IRTI-Food Street,A253,B001,01:06:41
+MBSZ440C3R86OV,445941409469,E-Money,Maras Megantara,Male,1994,JAK.113,Rusun Sindang Koja - Kp. Sawah,berangkat,3500,2023-04-13,11:12:27,12:11:48,EKS Komplek Gaya Motor-Jln. Lorong 5,A254,B003,00:59:21
+PAQB054F7O09HV,445697988940,BRIZZI,Padmi Marpaung,Female,1992,4E,Rusun Jatinegara Kaum - Pulo Gadung,berangkat,3500,2023-04-03,16:04:28,17:21:09,Pulo Gadung-Jln. Swadaya Pln,A255,B005,01:16:41
+ENAN537W3P56GH,445623952930,Flazz,Vega Anggraini,Female,1990,JAK.35,Pangkalan Jati - Rawamangun,berangkat,3500,2023-04-21,08:52:26,10:14:07,SDN Jati 07-Komplek Wijaya Kusuma 1,A142,B006,01:21:41
+AGMV387K4M82FE,445986104467,E-Money,Agnes Oktaviani,Female,1993,T11,Poris Plawad - Bundaran Senayan,berangkat,3500,2023-04-17,19:23:47,21:06:14,Senayan JCC Arah Barat-Slipi Kemanggisan Arah Utara,A256,B003,01:42:27
+TDCH651H4U58TI,445595869268,JakCard,Harsaya Natsir,Female,1970,JAK.44,Andara - Stasiun Universitas Pancasila,arah balik,3500,2023-04-26,06:58:19,07:52:46,Sbr. Sekolah Islam Al Azhar Jagakarsa-Gg. H. Ali,A257,B001,00:54:27
+PGKQ390O3T04DX,445195781383,JakCard,Dr. Karen Halim,Female,1987,5F,Kampung Melayu - Tanah Abang,berangkat,3500,2023-04-18,20:03:30,21:54:23,Casablanca-Telkom Tebet,A258,B001,01:50:53
+AGSG294I8A22MU,445112440222,TapCash,"Rahayu Farida, S.Kom",Male,1980,JAK.110A,Rusun Marunda - Terminal Terpadu Pulo Gebang,berangkat,3500,2023-04-15,05:16:10,06:19:28,SMKN 4-Jln. Rorotan V Gg. 1,A259,B004,01:03:18
+LWNV782W4C75QC,445026928944,JakCard,Jamalia Permadi,Female,1981,6C,Stasiun Tebet - Karet via Patra Kuningan,arah balik,3500,2023-04-14,08:26:32,09:14:57,UPT. LLHD 1-Karet Pedurenan 1,A260,B001,00:48:25
+RTBN894Z7T89VF,445252565632,Flazz,Sutan Imam Nasyidah,Male,1989,JAK.11,Tanah Abang - Kebayoran Lama,berangkat,3500,2023-04-26,21:16:37,23:13:15,Jln. Asshofa Raya-Sbr. Sekolah Bethel,A261,B006,01:56:38
+ESUS052E4J08SF,445012860704,Flazz,dr. Nova Mardhiyah,Female,1971,8C,Kebayoran Lama - Tanah Abang,arah balik,3500,2023-04-25,09:19:41,10:52:46,Yayasan Muhammadiyah 2-Pospol Jati Bunder,A262,B006,01:33:05
+TYPR243O6Z00UZ,445391466445,JakCard,Ega Andriani,Female,1990,1P,Senen - Blok M,berangkat,3500,2023-04-11,17:10:28,18:58:40,Bank Indonesia 2-St. Gambir 2,A263,B001,01:48:12
+YBQM786X1X19RZ,445952800644,MegaCash,Dewi Mansur,Male,1994,8K,Batusari - Grogol,arah balik,3500,2023-04-27,17:46:21,19:08:13,Komplek Kodam Jaya Kb. Jeruk-SMPN 127,A264,B002,01:21:52
+CXTT204W4E56DF,445220826635,JakCard,Cakrawangsa Permadi,Female,2010,JAK.45,Lebak Bulus - Ragunan,berangkat,3500,2023-04-17,06:14:19,07:13:32,PLN Corporate University 2-Sbr. SMAN 66,A265,B001,00:59:13
+TVAB556F5D78KC,445143680527,E-Money,"R.A. Farhunnisa Firmansyah, M.Pd",Female,1996,6B,Ragunan - MH Thamrin via Semanggi,berangkat,3500,2023-04-11,05:48:21,06:21:18,Tosari-Jati Padang,A266,B003,00:32:57
+SBOI321Y3A34WJ,445711135147,JakCard,Puti Paris Marpaung,Male,2003,13B,Puri Beta - Pancoran Barat,arah balik,3500,2023-04-13,17:44:15,18:56:39,Rawa Barat-Pancoran Barat Arah Timur,A267,B001,01:12:24
+IJWV537C0V40CK,445986104467,E-Money,Agnes Oktaviani,Female,1993,T11,Poris Plawad - Bundaran Senayan,arah balik,3500,2023-04-03,07:01:55,08:18:29,Hotel Olive 1-Palem Semi 1,A268,B003,01:16:34
+UQTE197T6F06HV,445887303934,Flazz,Edi Lazuardi,Male,1995,11B,Rusun Rawa Bebek - Penggilingan,arah balik,3500,2023-04-27,21:55:50,23:07:24,Walikota Jakarta Timur 2-Penggilingan 1,A22,B006,01:11:34
+TXNO063M6P06RI,445119520242,BRIZZI,Mala Salahudin,Female,1983,JAK.86,Term. Rawamangun - Term. Manggarai,arah balik,3500,2023-04-25,06:06:50,06:29:45,Jln. Cipinang Timur Persahabatan-Flyover Jatinegara Atas,A170,B005,00:22:55
+POLG318O8P43HD,445554973330,Flazz,Keisha Handayani,Male,1984,6P,Cibubur - Kuningan,berangkat,20000,2023-04-06,07:51:50,08:26:48,Tempo Scan-Rest Area TMII,A30,B006,00:34:58
+KHDD346O8Q81YP,445152536746,JakCard,Hj. Humaira Saputra,Female,2007,JAK.25,Kp. Rambutan - Kalisari,arah balik,3500,2023-04-08,17:38:39,18:24:28,Sbr. Bumi Gotong Royong-Sbr. Gg. Saorma Kalisari,A269,B001,00:45:49
+BREB630K3D06BU,445712330438,E-Money,Latif Dongoran,Female,2001,11C,Rusun Pinus Elok - Rusun Pulo Gebang,berangkat,3500,2023-04-23,13:53:07,15:30:54,Pintu Exit Term. Pulo Gebang-Perum Tpi 1,A270,B003,01:37:47
+WQSH736R2K17ZP,445491133117,BRIZZI,Paulin Nugroho,Male,1984,JAK.39,Kalimalang - Duren Sawit,arah balik,3500,2023-04-12,05:23:28,06:04:15,Jln. Swakarsa IV Pondok Kelapa-Klapa Village Pondok Kelapa,A271,B005,00:40:47
+LMZA751Z0H70BP,445318255341,JakCard,dr. Janet Budiyanto,Male,1965,4E,Rusun Jatinegara Kaum - Pulo Gadung,arah balik,3500,2023-04-16,07:18:42,07:52:51,Pool Mayasari Bakti-Pool PPD Kec. Pulo Gadung,A272,B001,00:34:09
+OEEI454S2I82UW,445568025019,JakCard,"Lurhur Winarno, S.H.",Female,2006,1A,Pantai Maju - Balai Kota,berangkat,3500,2023-04-18,21:50:23,22:59:23,Gold Coast-Pantai Maju,A273,B001,01:09:00
+PXFW604J9N82KP,445421410311,E-Money,"Yance Pratama, S.Kom",Female,1994,6N,Ragunan - Blok M via Kemang,arah balik,3500,2023-04-06,16:27:27,17:55:58,Ampera 3-Jln. Kenanga,A274,B003,01:28:31
+FVUN890X6W82YR,445057363912,JakCard,Ibun Kusumo,Female,1967,9D,Pasar Minggu - Tanah Abang,arah balik,3500,2023-04-25,06:23:00,07:09:48,Balai Kartini-Nifarro Park,A275,B001,00:46:48
+XSPZ140R9P22LU,445777085143,JakCard,"T. Parman Sinaga, S.H.",Male,1992,JAK.32,Lebak Bulus - Petukangan,arah balik,3500,2023-04-24,17:35:30,18:35:04,Ruko Pondok Pinang Centre-Simpang Sabar Raya 1,A276,B001,00:59:34
